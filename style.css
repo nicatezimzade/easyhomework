@@ -1,0 +1,59 @@
+.item {
+    background-color:rgb(255, 193, 193);
+    border: 1px solid rgb(0, 0, 0);
+    text-align: center;
+    padding: 15px;
+}
+
+.clear-fix{
+    clear: both;
+}
+.logo{
+    float: left;
+    width: 25%;
+}
+.headercount{
+    float: right;
+    width: 69%;
+}
+
+.header2{
+    margin-top: 7px;
+    margin-bottom: 15px;
+}
+
+.photo-area, .primary-messaging-area{
+    width: 49.3%;
+    padding: 100px 0px;
+}
+
+.photo-area{
+    float: left;
+}
+
+.primary-messaging-area{
+    float: right;
+}
+
+.header4left{
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 100px;
+}
+
+.header4right .item{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 100px;
+
+}
+.sma-2{
+    float: left;
+    margin-left: 28px;
+    margin-right: 25px;
+    padding-right: 100px;
+}
+.sma-3{
+    float: right;
+}
